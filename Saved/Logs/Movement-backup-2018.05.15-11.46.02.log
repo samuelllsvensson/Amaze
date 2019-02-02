@@ -1,0 +1,945 @@
+﻿Log file open, 05/15/18 11:38:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Movement
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1662508862) SRandInit(-1662508862).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181064
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DatasmithCADImporter/Binaries/Win64/UE4Editor-DatasmithCADImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DatasmithImporter/Binaries/Win64/UE4Editor-DatasmithImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DatasmithImporter/Binaries/Win64/UE4Editor-DatasmithCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.15-09.38.50:200][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-09.38.50:200][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.15-09.38.50:263][  0]LogInit: Computer: KITN-K4507-10
+[2018.05.15-09.38.50:263][  0]LogInit: User: adali414
+[2018.05.15-09.38.50:263][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.15-09.38.50:263][  0]LogInit: High frequency timer resolution =3.604939 MHz
+[2018.05.15-09.38.50:264][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.15-09.38.50:264][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.15-09.38.50:264][  0]LogMemory: Process Physical Memory: 272.76 MB used, 272.76 MB peak
+[2018.05.15-09.38.50:264][  0]LogMemory: Process Virtual Memory: 270.99 MB used, 270.99 MB peak
+[2018.05.15-09.38.50:264][  0]LogMemory: Physical Memory: 8539.35 MB used,  24144.82 MB free, 32684.18 MB total
+[2018.05.15-09.38.50:264][  0]LogMemory: Virtual Memory: 678.77 MB used,  24144.82 MB free, 134217728.00 MB total
+[2018.05.15-09.38.50:477][  0]LogInit: Using OS detected language (en-US).
+[2018.05.15-09.38.50:477][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.15-09.38.50:480][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.15-09.38.50:855][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.15-09.38.51:109][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.15-09.38.51:158][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.15-09.38.51:159][  0]LogD3D11RHI:       8096/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.15-09.38.51:163][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.15-09.38.51:163][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.15-09.38.51:163][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.15-09.38.51:169][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.15-09.38.51:170][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.15-09.38.51:170][  0]LogWindows: EnumDisplayDevices:
+[2018.05.15-09.38.51:170][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.15-09.38.51:170][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.15-09.38.51:170][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.15-09.38.51:170][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.15-09.38.51:170][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.15-09.38.51:170][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.15-09.38.51:170][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.15-09.38.51:170][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.15-09.38.51:170][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.05.15-09.38.51:198][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.15-09.38.51:209][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.15-09.38.51:252][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (H:/Unreal/mazegame 4.18 - 2/Intermediate/Shaders/WorkingDirectory/14340/).
+[2018.05.15-09.38.51:252][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TEMP.AD/AppData/Local/Temp/UnrealShaderWorkingDir/177809334C3E7EBFCA956A8DE5981E17/'.
+[2018.05.15-09.38.51:252][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.15-09.38.52:406][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.15-09.38.52:472][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.15-09.38.52:539][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.15-09.38.52:612][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.15-09.38.52:680][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.15-09.38.52:746][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.15-09.38.52:812][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.15-09.38.52:878][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.15-09.38.52:935][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.15-09.38.53:000][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.15-09.38.53:064][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.15-09.38.53:136][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.15-09.38.53:203][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.15-09.38.53:266][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.15-09.38.53:397][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.15-09.38.53:397][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.15-09.38.53:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.15-09.38.53:511][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.15-09.38.53:626][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.15-09.38.53:667][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.15-09.38.53:733][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.15-09.38.53:798][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.15-09.38.53:873][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.15-09.38.53:938][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.15-09.38.53:938][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.15-09.38.54:505][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.15-09.38.54:580][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/TEMP.AD/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.15-09.38.54:581][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TEMP.AD/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.15-09.38.54:582][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/Unreal/mazegame 4.18 - 2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.15-09.38.54:582][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.15-09.38.54:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/Unreal/mazegame 4.18 - 2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.15-09.38.54:583][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.15-09.38.54:598][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.15-09.38.54:610][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TEMP.AD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.15-09.38.54:620][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.15-09.38.54:620][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.15-09.38.54:621][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-09.38.54:621][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-09.38.55:013][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-09.38.55:398][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.15-09.38.55:461][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.15-09.38.55:461][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.15-09.38.55:461][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.15-09.38.55:461][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.15-09.38.55:461][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.15-09.38.55:486][  0]LogNetVersion: Movement , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1157801380)
+[2018.05.15-09.38.55:649][  0]LogAssetRegistry: FAssetRegistry took 0.0289 seconds to start up
+[2018.05.15-09.38.57:846][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 1.601637 seconds
+[2018.05.15-09.38.57:859][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.05.15-09.38.57:859][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.05.15-09.38.57:859][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.15-09.38.57:964][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.15-09.39.01:270][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.15-09.39.01:316][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.15-09.39.01:320][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.02:348][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.15-09.39.02:954][  0]SourceControl: Source control is disabled
+[2018.05.15-09.39.02:954][  0]SourceControl: Source control is disabled
+[2018.05.15-09.39.03:065][  0]SourceControl: Source control is disabled
+[2018.05.15-09.39.03:158][  0]SourceControl: Source control is disabled
+[2018.05.15-09.39.04:477][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.15-09.39.04:771][  0]LogOcInput: OculusInput pre-init called
+[2018.05.15-09.39.05:115][  0]LogEngine: Initializing Engine...
+[2018.05.15-09.39.05:117][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.15-09.39.05:312][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-09.39.05:312][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-09.39.05:476][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.15-09.39.05:483][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-09.39.05:510][  0]LogInit: FAudioDevice initialized.
+[2018.05.15-09.39.05:594][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/TEMP.AD/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.15-09.39.05:617][  0]LogInit: Texture streaming: Enabled
+[2018.05.15-09.39.05:772][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.15-09.39.05:942][  0]LogInit: Transaction tracking system initialized
+[2018.05.15-09.39.06:304][  0]BlueprintLog: New page: Editor Load
+[2018.05.15-09.39.07:414][  0]LocalizationService: Localization service is disabled
+[2018.05.15-09.39.08:370][  0]LogConsoleResponse: Display: 
+[2018.05.15-09.39.08:569][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.15-09.39.08:569][  0]LogCook: Display: Mobile HDR setting 0
+[2018.05.15-09.39.08:569][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.15-09.39.09:904][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal/mazegame 4.18 - 2/Content/' took 0.15s
+[2018.05.15-09.39.09:954][  0]SourceControl: Source control is disabled
+[2018.05.15-09.39.10:009][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.15-09.39.10:036][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.15-09.39.37:532][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.15-09.39.37:533][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.15-09.39.37:577][  0]Cmd: MAP LOAD FILE="H:/Unreal/mazegame 4.18 - 2/Content/Untitled_1_Auto3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.15-09.39.37:601][  0]LightingResults: New page: Lighting Build
+[2018.05.15-09.39.37:713][  0]MapCheck: New page: Map Check
+[2018.05.15-09.39.37:713][  0]LightingResults: New page: Lighting Build
+[2018.05.15-09.39.42:370][  0]LogAIModule: Creating AISystem for world Untitled_1_Auto3
+[2018.05.15-09.39.42:398][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.15-09.39.42:411][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.15-09.39.42:507][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.031ms to complete.
+[2018.05.15-09.39.42:507][  0]LogFileHelpers: Loading map 'Untitled_1_Auto3' took 4.930
+[2018.05.15-09.39.42:620][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_1afc_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_1de0_0///####STATCAT_Advanced####
+[2018.05.15-09.39.42:620][  0]LogCollectionManager: Loaded 0 collections in 0.025891 seconds
+[2018.05.15-09.39.42:904][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal/mazegame 4.18 - 2/Saved/Collections/' took 0.01s
+[2018.05.15-09.39.42:904][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal/mazegame 4.18 - 2/Content/Developers/adali414/Collections/' took 0.01s
+[2018.05.15-09.39.42:904][  0]LogFileCache: Scanning file cache for directory 'H:/Unreal/mazegame 4.18 - 2/Content/Collections/' took 0.01s
+[2018.05.15-09.39.42:904][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.15-09.39.42:922][  0]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2386 classes and 530 folders.
+[2018.05.15-09.39.42:994][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.15-09.39.43:041][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.15-09.39.43:088][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.15-09.39.43:155][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.15-09.39.43:161][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.15-09.39.43:272][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2018.05.15-09.39.43:458][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.15-09.39.43:458][  0]LogLoad: (Engine Initialization) Total time: 58.56 seconds
+[2018.05.15-09.39.43:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.15-09.39.43:458][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.15-09.39.43:458][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.15-09.39.43:561][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.43:562][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/', and we were unable to create a new request.
+[2018.05.15-09.39.43:562][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.43:562][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/Developers/adali414/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.43:563][  0]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.43:567][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.15-09.39.43:669][  1]LogAssetRegistry: Asset discovery search completed in 48.0428 seconds
+[2018.05.15-09.39.43:671][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.15-09.39.43:671][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.05.15-09.39.43:671][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/Developers/adali414/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.43:672][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/Developers/adali414/Collections/', and we were unable to create a new request.
+[2018.05.15-09.39.43:672][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.43:677][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Saved/Collections/', and we were unable to create a new request.
+[2018.05.15-09.39.43:677][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.15-09.39.43:679][  1]LogDirectoryWatcher: A directory notification failed for 'H:/Unreal/mazegame 4.18 - 2/Content/Collections/', and we were unable to create a new request.
+[2018.05.15-09.39.46:489][126]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.15-09.39.48:649][248]LogFileCache: Retrieving MD5 hashes for directory 'H:/Unreal/mazegame 4.18 - 2/Content/' took 5.17s
+[2018.05.15-09.39.48:968][267]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.05.15-09.39.51:113][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3' with GeneratedClass '/Game/Untitled_1_Auto3.Untitled_1_Auto3_C' with ClassGeneratedBy '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3'
+[2018.05.15-09.39.51:115][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-09.39.51:116][339]PIE: New page: PIE session: Untitled_1_Auto3 (May 15, 2018, 1:39:51 PM)
+[2018.05.15-09.39.51:116][339]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled_1_Auto3
+[2018.05.15-09.39.51:139][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022996s)
+[2018.05.15-09.39.51:140][339]LogAIModule: Creating AISystem for world Untitled_1_Auto3
+[2018.05.15-09.39.51:140][339]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2018.05.15-09.39.51:140][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled_1_Auto3.Untitled_1_Auto3 to /Game/UEDPIE_0_Untitled_1_Auto3.Untitled_1_Auto3 (0.024061s)
+[2018.05.15-09.39.51:162][339]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-09.39.51:175][339]LogInit: FAudioDevice initialized.
+[2018.05.15-09.39.51:265][339]LogLoad: Game class is 'NewGameMode_C'
+[2018.05.15-09.39.51:276][339]LogWorld: Bringing World /Game/UEDPIE_0_Untitled_1_Auto3.Untitled_1_Auto3 up for play (max tick rate 0) at 2018.05.15-11.39.51
+[2018.05.15-09.39.51:277][339]LogWorld: Bringing up level for play took: 0.009668
+[2018.05.15-09.39.51:396][339]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2018.05.15-09.39.51:397][339]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled_1_Auto3 0.626
+[2018.05.15-09.39.51:398][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3' with GeneratedClass '/Game/Untitled_1_Auto3.Untitled_1_Auto3_C' with ClassGeneratedBy '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3'
+[2018.05.15-09.39.51:400][339]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:439][340]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:472][341]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:491][342]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:525][343]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:563][344]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:595][345]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:624][346]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:646][347]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:663][348]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:681][349]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:701][350]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:720][351]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:736][352]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:754][353]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:771][354]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:787][355]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:804][356]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:821][357]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:837][358]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:853][359]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:872][360]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:889][361]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:905][362]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:923][363]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:940][364]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:957][365]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:973][366]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.51:988][367]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.52:006][368]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.52:021][369]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.52:035][370]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.52:051][371]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.52:065][372]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.52:081][373]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.52:095][374]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:113][375]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:125][376]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:141][377]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:153][378]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:167][379]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:180][380]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:194][381]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:210][382]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:223][383]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:236][384]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:249][385]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:262][386]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:275][387]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:288][388]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:301][389]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:318][390]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:335][391]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:348][392]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:361][393]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:373][394]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:386][395]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:400][396]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:413][397]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:427][398]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:442][399]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:455][400]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:468][401]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:486][402]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:499][403]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:512][404]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:524][405]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:537][406]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:549][407]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:565][408]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:577][409]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:590][410]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:603][411]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:615][412]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:627][413]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:640][414]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:652][415]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:666][416]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:678][417]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:691][418]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:704][419]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:716][420]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:729][421]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.52:742][422]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:756][423]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:769][424]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:788][425]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:805][426]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:819][427]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:833][428]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:849][429]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:861][430]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:874][431]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:886][432]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:901][433]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:916][434]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:929][435]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:942][436]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:957][437]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:971][438]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:983][439]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.52:997][440]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:010][441]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:023][442]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:037][443]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:050][444]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:067][445]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:080][446]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:096][447]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:109][448]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:121][449]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:134][450]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:146][451]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:159][452]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:174][453]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:188][454]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:200][455]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:213][456]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:225][457]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:238][458]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:253][459]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:266][460]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:278][461]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:291][462]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:303][463]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:315][464]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:328][465]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:340][466]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:353][467]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:365][468]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:378][469]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:390][470]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:402][471]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:417][472]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:430][473]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:444][474]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:457][475]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:470][476]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:483][477]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:495][478]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:508][479]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:520][480]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:533][481]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:546][482]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:564][483]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:581][484]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:594][485]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:606][486]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Key
+[2018.05.15-09.39.53:619][487]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:632][488]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:644][489]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:660][490]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:675][491]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:693][492]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:710][493]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:725][494]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:739][495]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:755][496]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:771][497]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:790][498]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:806][499]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:822][500]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:839][501]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:856][502]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:868][503]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:881][504]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:900][505]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:913][506]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:926][507]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:939][508]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:952][509]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:966][510]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:978][511]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.53:992][512]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.54:005][513]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.54:017][514]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.54:030][515]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.54:043][516]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube88
+[2018.05.15-09.39.54:056][517]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:071][518]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:088][519]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:106][520]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:121][521]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:135][522]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:150][523]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:164][524]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:178][525]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:193][526]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:207][527]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:220][528]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:232][529]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:244][530]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:257][531]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:270][532]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:285][533]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:301][534]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:315][535]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:329][536]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:342][537]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:354][538]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:366][539]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:379][540]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:392][541]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:405][542]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:417][543]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:430][544]LogBlueprintUserMessages: [GearVR_Char_C_0] Floor
+[2018.05.15-09.39.54:443][545]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:460][546]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:473][547]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:485][548]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:498][549]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:511][550]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:524][551]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:537][552]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:550][553]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:563][554]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:575][555]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:588][556]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:603][557]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:616][558]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:628][559]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:642][560]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:654][561]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:667][562]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:679][563]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:692][564]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:705][565]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:717][566]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:730][567]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:743][568]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:756][569]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:769][570]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:781][571]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:795][572]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:810][573]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:827][574]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:840][575]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:853][576]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:867][577]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:880][578]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:895][579]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:908][580]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube85
+[2018.05.15-09.39.54:921][581]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.54:934][582]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.54:946][583]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.54:960][584]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.54:973][585]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.54:985][586]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.54:999][587]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:014][588]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:027][589]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:043][590]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:057][591]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:069][592]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:081][593]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:094][594]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:106][595]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:119][596]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:132][597]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:144][598]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:157][599]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:169][600]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:182][601]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube86
+[2018.05.15-09.39.55:196][602]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:210][603]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:224][604]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:236][605]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:249][606]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:262][607]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:276][608]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:288][609]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:301][610]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:313][611]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:328][612]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:340][613]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:352][614]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:365][615]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:377][616]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:390][617]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:403][618]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:415][619]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:428][620]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:441][621]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:453][622]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:465][623]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:477][624]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:490][625]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:503][626]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:519][627]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:531][628]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:543][629]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:556][630]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:569][631]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:581][632]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:594][633]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:611][634]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:627][635]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:642][636]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:656][637]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:673][638]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:690][639]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:702][640]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:714][641]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:727][642]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:739][643]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:751][644]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:765][645]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:777][646]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:790][647]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:803][648]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:818][649]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:831][650]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:846][651]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:859][652]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:872][653]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:885][654]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:898][655]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:912][656]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:926][657]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:939][658]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:951][659]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:964][660]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:982][661]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.55:994][662]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:007][663]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:020][664]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:035][665]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:052][666]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:066][667]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:078][668]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:091][669]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:104][670]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:116][671]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:129][672]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:141][673]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:154][674]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:167][675]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:180][676]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:194][677]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:206][678]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:219][679]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:233][680]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:247][681]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:259][682]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:271][683]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:284][684]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:296][685]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:309][686]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:321][687]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:334][688]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:347][689]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:360][690]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:375][691]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:388][692]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:400][693]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:412][694]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:427][695]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:442][696]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:454][697]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:473][698]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:486][699]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:499][700]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:511][701]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:528][702]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:541][703]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:554][704]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:569][705]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:582][706]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:595][707]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:607][708]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:619][709]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:632][710]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:645][711]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:662][712]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:677][713]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:691][714]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:706][715]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:720][716]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:736][717]LogBlueprintUserMessages: [GearVR_Char_C_0] Cube87
+[2018.05.15-09.39.56:749][718]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:762][719]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:776][720]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:792][721]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:804][722]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:820][723]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:836][724]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:852][725]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:864][726]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:877][727]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:890][728]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:905][729]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:921][730]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:934][731]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:952][732]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:965][733]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:978][734]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:992][735]LogBlueprintUserMessages: [GearVR_Char_C_0] BP_Door
+[2018.05.15-09.39.56:993][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3' with GeneratedClass '/Game/Untitled_1_Auto3.Untitled_1_Auto3_C' with ClassGeneratedBy '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3'
+[2018.05.15-09.39.57:030][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3' with GeneratedClass '/Game/Untitled_1_Auto3.Untitled_1_Auto3_C' with ClassGeneratedBy '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.Untitled_1_Auto3'
+[2018.05.15-09.40.04:347][246]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2018.05.15-09.40.04:354][246]LogSlate: Took 0.003437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.15-09.40.04:377][246]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2018.05.15-09.40.04:449][246]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.05.15-09.40.44:652][246]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2018.05.15-09.40.53:168][246]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2018.05.15-09.40.53:315][246]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2018.05.15-09.40.53:745][246]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2018.05.15-09.40.53:782][246]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.05.15-09.40.53:834][246]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2018.05.15-09.40.53:850][246]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.05.15-09.40.53:902][246]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2018.05.15-09.40.53:929][246]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2018.05.15-09.40.53:939][246]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2018.05.15-09.40.53:955][246]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2018.05.15-09.40.54:051][246]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.05.15-09.40.54:106][246]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.05.15-09.40.54:161][246]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.05.15-09.40.54:176][246]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.05.15-09.40.54:188][246]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.05.15-09.40.54:271][246]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.05.15-09.40.54:292][246]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.05.15-09.40.54:386][246]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.05.15-09.40.54:404][246]LogMaterial: Missing cached shader map for material ARKitCameraMaterial, compiling. 
+[2018.05.15-09.40.54:418][246]LogMaterial: Missing cached shader map for material GearVRControllerMaterial, compiling. 
+[2018.05.15-09.40.54:469][246]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.05.15-09.40.54:487][246]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.05.15-09.40.54:502][246]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2018.05.15-09.40.54:516][246]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2018.05.15-09.40.54:571][246]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2018.05.15-09.40.54:622][246]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.05.15-09.40.54:638][246]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2018.05.15-09.40.54:721][246]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.05.15-09.40.54:774][246]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2018.05.15-09.40.54:835][246]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2018.05.15-09.40.54:853][246]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.05.15-09.40.54:914][246]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.05.15-09.40.54:932][246]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2018.05.15-09.40.54:942][246]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.05.15-09.40.54:964][246]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.05.15-09.40.55:270][246]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.05.15-09.40.55:282][246]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2018.05.15-09.40.55:294][246]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2018.05.15-09.40.55:306][246]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2018.05.15-09.40.55:318][246]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.05.15-09.40.55:330][246]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.05.15-09.40.55:342][246]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.05.15-09.40.55:353][246]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.05.15-09.40.55:365][246]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.05.15-09.40.55:377][246]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2018.05.15-09.40.55:390][246]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2018.05.15-09.40.55:403][246]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.05.15-09.40.55:415][246]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.05.15-09.40.55:427][246]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.05.15-09.40.55:439][246]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.05.15-09.40.55:451][246]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.05.15-09.40.55:464][246]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.05.15-09.40.55:481][246]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.05.15-09.40.55:494][246]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.05.15-09.40.55:507][246]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.05.15-09.40.55:518][246]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.05.15-09.40.55:532][246]LogMaterial: Missing cached shader map for material CE_OpaqueMaster, compiling. 
+[2018.05.15-09.40.55:589][246]LogMaterial: Missing cached shader map for material CE_OpacityMaster, compiling. 
+[2018.05.15-09.40.55:652][246]LogMaterial: Missing cached shader map for material CE_OpacitySimpleMaster, compiling. 
+[2018.05.15-09.40.55:719][246]LogMaterial: Missing cached shader map for material CI_OpaqueMaster, compiling. 
+[2018.05.15-09.40.55:776][246]LogMaterial: Missing cached shader map for material CI_TransparentMaster, compiling. 
+[2018.05.15-09.40.55:836][246]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2018.05.15-09.40.55:846][246]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.05.15-09.40.55:865][246]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.05.15-09.40.55:884][246]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.05.15-09.40.55:898][246]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.05.15-09.40.56:053][246]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.05.15-09.40.56:851][246]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.05.15-09.40.56:964][246]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.05.15-09.40.57:764][246]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.05.15-09.40.58:561][246]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.05.15-09.40.58:672][246]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.05.15-09.40.58:877][246]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.05.15-09.40.58:898][246]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.05.15-09.40.58:919][246]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.05.15-09.40.58:940][246]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.05.15-09.40.58:961][246]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.05.15-09.40.58:982][246]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.05.15-09.40.58:991][246]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.05.15-09.40.59:011][246]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.05.15-09.40.59:114][246]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.05.15-09.40.59:127][246]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.05.15-09.40.59:151][246]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.05.15-09.40.59:167][246]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.05.15-09.40.59:185][246]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.05.15-09.40.59:457][246]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.05.15-09.40.59:475][246]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.05.15-09.40.59:500][246]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.05.15-09.40.59:512][246]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.05.15-09.40.59:522][246]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.05.15-09.40.59:541][246]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.05.15-09.40.59:556][246]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.05.15-09.40.59:572][246]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.05.15-09.40.59:587][246]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.05.15-09.40.59:603][246]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.05.15-09.40.59:622][246]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.05.15-09.40.59:640][246]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.05.15-09.40.59:653][246]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.05.15-09.40.59:665][246]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.05.15-09.40.59:677][246]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.05.15-09.40.59:689][246]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.05.15-09.40.59:702][246]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.05.15-09.40.59:720][246]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.05.15-09.40.59:740][246]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.05.15-09.40.59:755][246]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.05.15-09.40.59:771][246]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2018.05.15-09.40.59:803][246]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2018.05.15-09.40.59:842][246]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.05.15-09.41.00:004][246]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.05.15-09.41.00:018][246]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2018.05.15-09.41.00:107][246]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2018.05.15-09.41.00:198][246]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2018.05.15-09.41.00:289][246]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.05.15-09.41.00:381][246]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.05.15-09.41.00:473][246]LogMaterial: Missing cached shader map for material Mirror_Mat, compiling. 
+[2018.05.15-09.41.00:565][246]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.05.15-09.41.00:730][246]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.05.15-09.41.00:788][246]LogMaterial: Missing cached shader map for material StonePillar, compiling. 
+[2018.05.15-09.41.00:878][246]LogMaterial: Missing cached shader map for material Walls, compiling. 
+[2018.05.15-09.41.00:968][246]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2018.05.15-09.41.01:062][246]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2018.05.15-09.41.01:149][246]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.05.15-09.41.01:171][246]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.05.15-09.41.01:193][246]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.05.15-09.41.01:205][246]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.05.15-09.41.01:216][246]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.05.15-09.41.01:235][246]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2018.05.15-09.41.01:259][246]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.05.15-09.41.01:288][246]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.05.15-09.41.01:303][246]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.05.15-09.41.01:344][246]LogMaterial: Verifying Global Shaders for PCD3D_ES31
+[2018.05.15-09.42.17:235][779]MapCheck: New page: Map Check
+[2018.05.15-09.42.17:249][779]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.15-09.42.17:249][779]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.15-09.45.13:285][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.15-09.45.13:293][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Floor, compiling. 
+[2018.05.15-09.45.13:298][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.05.15-09.45.13:304][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Oak, compiling. 
+[2018.05.15-09.45.13:309][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.05.15-09.45.13:316][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Walnut, compiling. 
+[2018.05.15-09.45.13:323][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.05.15-09.45.13:330][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.05.15-09.45.13:337][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2018.05.15-09.45.13:343][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Walls, compiling. 
+[2018.05.15-09.45.13:350][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.15-09.45.13:358][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy StonePillar, compiling. 
+[2018.05.15-09.45.13:366][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mirror_Mat, compiling. 
+[2018.05.15-09.45.13:373][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Rust, compiling. 
+[2018.05.15-09.45.13:380][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2018.05.15-09.45.13:388][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.05.15-09.45.13:397][779]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.05.15-09.45.14:185][779]TextureStreamingBuild: Display: Compiling optional shaders took 0.905 seconds.
+[2018.05.15-09.45.14:210][779]LogLevel: Display: Export Material TexCoord Scales took 0.026 seconds.
+[2018.05.15-09.45.14:344][779]TextureStreamingBuild: Display: Build Texture Streaming took 0.132 seconds.
+[2018.05.15-09.45.14:378][779]LogEditorBuildUtils: Build time 2:57
